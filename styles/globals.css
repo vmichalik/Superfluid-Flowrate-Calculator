@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@font-face {
+  font-family: 'GT Walsheim Pro';
+  src: url('https://replit.com/@VijayMichalik/Nextjs-TailwindCSS#public/GT-Walsheim-Pro-Regular.ttf');
+}

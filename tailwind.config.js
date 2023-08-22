@@ -6,7 +6,10 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    fontFamily: {
+      'custom': ['GT Walsheim Pro', 'sans-serif'],
+    },
   },
+  variants: {},
   plugins: [],
-}
+};
